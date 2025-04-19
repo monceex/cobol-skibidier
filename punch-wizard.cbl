@@ -58,4 +58,4 @@
 
            STOP RUN.
 
-       END PROGRAM MultiplyTimestamp.
+       END PROGRAM PUNCHER.
