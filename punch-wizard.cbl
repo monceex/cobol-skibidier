@@ -36,7 +36,7 @@
                DISPLAY ""
                DISPLAY "What did you do? You're a criminal, shame on you"
                DISPLAY ""
-               DISPLAY "The wizard has perished and dropped " WIZARD-GOLD
+               DISPLAY "The wizard has perished and dropped " WIZARD-GOLD " coins"
                STOP RUN
            END-IF.
            
